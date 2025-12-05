@@ -1,0 +1,178 @@
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\thuchanh.exe
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\thuchanh.dll.config
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\thuchanh.deps.json
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\thuchanh.runtimeconfig.json
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\thuchanh.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\thuchanh.pdb
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Data.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Data.Desktop.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Drawing.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Images.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Mvvm.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Pdf.v25.1.Core.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Pdf.v25.1.Drawing.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Printing.v25.1.Core.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Accordion.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Carousel.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Controls.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Core.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.ThemesLW.v25.1.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.csproj.AssemblyReference.cache
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\MainWindow.baml
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\App.g.cs
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh_MarkupCompile.cache
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.g.resources
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.AssemblyInfoInputs.cache
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.AssemblyInfo.cs
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.csproj.CoreCompileInputs.cache
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.csproj.Up2Date
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.dll
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\refint\thuchanh.dll
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.pdb
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh.genruntimeconfig.cache
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\ref\thuchanh.dll
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\Hoadon.g.cs
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\Sach.g.cs
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\Theloai.g.cs
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\thuchanh_MarkupCompile.lref
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\Hoadon.baml
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\Sach.baml
+D:\thuc hanh\thuchanh\thuchanh\obj\Debug\net8.0-windows\Theloai.baml
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Grid.v25.1.Core.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Grid.v25.1.Extensions.dll
+D:\thuc hanh\thuchanh\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Grid.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\thuchanh.exe
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\thuchanh.dll.config
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\thuchanh.deps.json
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\thuchanh.runtimeconfig.json
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\thuchanh.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\thuchanh.pdb
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Data.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Data.Desktop.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Drawing.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Images.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Mvvm.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Pdf.v25.1.Core.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Pdf.v25.1.Drawing.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Printing.v25.1.Core.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Accordion.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Carousel.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Controls.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Core.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Grid.v25.1.Core.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Grid.v25.1.Extensions.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Grid.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.Themes.Office2019Colorful.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\DevExpress.Xpf.ThemesLW.v25.1.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\System.ServiceModel.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.csproj.AssemblyReference.cache
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\MainWindow.baml
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\Hoadon.g.cs
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\Sach.g.cs
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\Theloai.g.cs
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\App.g.cs
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh_MarkupCompile.cache
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh_MarkupCompile.lref
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\Hoadon.baml
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\Sach.baml
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\Theloai.baml
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.g.resources
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.AssemblyInfoInputs.cache
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.AssemblyInfo.cs
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.csproj.CoreCompileInputs.cache
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.csproj.Up2Date
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\refint\thuchanh.dll
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.pdb
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\thuchanh.genruntimeconfig.cache
+D:\kỳ cuối\Xây dựng phần mềm quản lý\phân mềm\nhap\duc\thuchanh\obj\Debug\net8.0-windows\ref\thuchanh.dll

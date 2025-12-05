@@ -1,0 +1,25 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:thuchanh"
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" x:Class="thuchanh.Hoadon"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.Background>
+            <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlLightLightColorKey}}"/>
+        </Grid.Background>
+
+        <Label x:Name="labelSach" Content="Quản lý sách" Width="800" Height="77" Background="#FF89DDEB" FontFamily="Times New Roman" FontSize="48" HorizontalContentAlignment="Center" VerticalAlignment="Top" VerticalContentAlignment="Center"/>
+        <Label x:Name="labelSach1" Content="Sách:" Margin="81,177,0,0" VerticalAlignment="Top" Width="120" Height="40" FontFamily="Times New Roman" FontSize="18" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" HorizontalAlignment="Left"/>
+        <dx:SimpleButton x:Name="Thêm" Content="Thêm" HorizontalAlignment="Left" Height="44" Margin="320,352,0,0" Width="236" Background="#FF37E82E" VerticalAlignment="Center"/>
+        <Label x:Name="TenTheLoai" Content="Thể loại" Margin="81,119,0,0" VerticalAlignment="Top" Width="120" Height="40" FontFamily="Times New Roman" FontSize="18" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" HorizontalAlignment="Left"/>
+        <dx:DropDownButton x:Name="Theloai" Content="DropDownButton" HorizontalAlignment="Left" Margin="201,119,0,0" VerticalAlignment="Top" Width="518" Height="44"/>
+        <dx:DropDownButton x:Name="Sách" Content="DropDownButton" HorizontalAlignment="Left" Margin="201,177,0,0" VerticalAlignment="Top" Width="518" Height="44"/>
+        <Label x:Name="labelThanhtien" Content="Thành tiền:" Margin="81,241,0,0" VerticalAlignment="Top" Width="120" Height="40" FontFamily="Times New Roman" FontSize="18" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBlock x:Name="Thanhtien" HorizontalAlignment="Left" Margin="201,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="518" Height="40" FontFamily="Times New Roman" FontSize="16" Background="#FF5EF0EA"/>
+
+    </Grid>
+</UserControl>
